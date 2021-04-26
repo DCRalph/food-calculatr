@@ -1,8 +1,8 @@
-/* 	--------------- Nutrient task ---------------
+/* 	------------------------------ Nutrient task ------------------------------
 	Author: William Giles
 	Date: 21/4/2021
 	Description: pParse a file and get the data out and display it nicely
-	---------------------------------------------
+	---------------------------------------------------------------------------
 */	
 
 class foodData{ // class to store all the data
