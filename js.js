@@ -200,7 +200,12 @@ function search(){ // runs when search button is presed
             food.ids.push(i)
         }
     } 
-    render()
+    if(food.ids.length > 0){
+        render()
+    } else {
+        content.innerHTML = `<h2>No results for ${food.search}</h2>`
+    }
+    
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
