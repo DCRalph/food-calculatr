@@ -2532,4 +2532,3 @@ Food ID	Food name	Energy (kJ)	Protein (g)	"Fat, total (g)"	"Fat, saturated (g)"	
 15A10935	"Olida (Eucalyptus olida), leaf, dried, ground"	784	9.4	4.8	0.9	4.4	4.1	160
 15A40031	"Witchetty grub, raw (Cossidae sp.)"	1030	16.2	19.4	5.7	2.2	2.2	12
 15A40032	"Witchetty grub, cooked in hot wood ash (Cossidae sp.)"	1318	14.7	25.1	7.3	8.2	8.2	28
-
